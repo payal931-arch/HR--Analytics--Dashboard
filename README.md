@@ -31,3 +31,5 @@ To view the Power BI dashboard:
 
 Download the hr_analytics_dashboard.pbix file from this repository. Open the file using Power BI Desktop. Explore the dashboard to interact with the visuals and analysis. Repository Structure bash
 
+ ![image alt](https://github.com/payal931-arch/HR--Analytics--Dashboard/blob/37bc703e13bfe571b8c0f785151a082547c62c09/hr-analytics%20dashboard.png)
+
